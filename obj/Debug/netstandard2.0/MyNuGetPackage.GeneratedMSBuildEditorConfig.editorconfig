@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MyNuGetPackage
+build_property.ProjectDir = C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

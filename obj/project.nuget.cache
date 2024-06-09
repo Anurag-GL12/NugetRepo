@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXxpNfpYsdYomKxrWITps1sMi7B/weO9yen0IkYBx0ohaNRhYhZir5N8SlGqTz1R/ohz/PHHQelZRjCAX7M0Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anurag.sharma3\\source\\repos\\MyNuGetPackage\\MyNuGetPackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anurag.sharma3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anurag.sharma3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

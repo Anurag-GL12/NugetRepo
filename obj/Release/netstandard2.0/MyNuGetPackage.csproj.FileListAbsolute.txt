@@ -1,0 +1,10 @@
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\bin\Release\netstandard2.0\MyNuGetPackage.deps.json
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\bin\Release\netstandard2.0\MyNuGetPackage.dll
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\bin\Release\netstandard2.0\MyNuGetPackage.pdb
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.csproj.AssemblyReference.cache
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.AssemblyInfoInputs.cache
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.AssemblyInfo.cs
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.csproj.CoreCompileInputs.cache
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.dll
+C:\Users\anurag.sharma3\source\repos\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.pdb
